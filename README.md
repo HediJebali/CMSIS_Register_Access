@@ -14,3 +14,12 @@ Moving from pure hardware memory-mapping to standardized peripheral structures p
 - Timing control and Debouncing.
 - Utilizing predefined core headers instead of manual address mapping.
 - A simple instruction executes in 1 microsecond.
+
+### 📸 1. Hardware Setup 
+Here is the clean setup of the STM32F446RE board:
+<img width="1228" height="739" alt="STM32F446RE" src="https://github.com/user-attachments/assets/21a6b14e-9e50-4504-b2b7-ed1d9acd9bc3" />
+
+### 2. Project Execution 
+https://github.com/user-attachments/assets/53ad3c09-5121-41ec-8bc3-15554d260b65
+
+
