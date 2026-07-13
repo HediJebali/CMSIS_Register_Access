@@ -16,10 +16,8 @@ Moving from pure hardware memory-mapping to standardized peripheral structures p
 - A simple instruction executes in 1 microsecond.
 
 
-### 📸 Project Execution 
 
 
-https://github.com/user-attachments/assets/a97a605c-602f-4b48-957f-e1e8a38b5833
 
 
 
