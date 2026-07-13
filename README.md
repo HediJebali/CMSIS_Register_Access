@@ -1,4 +1,4 @@
-## Project: 02_CMSIS_Register_Access
+## Project: CMSIS_Register_Access
 
 ## Objective: Implement a GPIO-based logic control using CMSIS (Cortex Microcontroller Software Interface Standard) register access on STM32F446RE.
 
